@@ -1,0 +1,153 @@
+{
+  "brand": { "title": "Eldarum", "subtitle": "Atlas & Chronicle" },
+  "topBarNav": [
+    { "label": "Home", "href": "index.html" },
+    { "label": "Site index", "href": "pages/meta/sitemap.html", "match": "meta/sitemap" },
+    { "label": "Lore sources", "href": "pages/meta/lore-sources.html", "match": "meta/lore-sources" },
+    { "label": "Atlas", "href": "pages/atlas/index.html", "match": "pages/atlas/index" },
+    { "label": "Asceveron", "href": "pages/atlas/asceveron.html", "match": "atlas/asceveron.html" },
+    { "label": "Planes", "href": "pages/cosmology/planes-of-existence.html", "match": "planes-of-existence" },
+    { "label": "Gods", "href": "pages/faith/gods-of-eldarum.html", "match": "gods-of-eldarum" },
+    { "label": "Pantheon", "href": "pages/faith/pantheon.html", "match": "faith/pantheon.html" },
+    { "label": "Titan Wars", "href": "pages/faith/titan-wars.html", "match": "titan-wars.html" },
+    { "label": "Timeline", "href": "pages/history/master-timeline.html", "match": "master-timeline" },
+    { "label": "Grand chronicle", "href": "pages/history/asceveron-grand-chronicle.html", "match": "asceveron-grand-chronicle" },
+    { "label": "Campaign journal", "href": "pages/campaign/journal.html", "match": "campaign/journal" },
+    { "label": "Northwake", "href": "pages/gazetteer/northwake-hub.html", "match": "gazetteer/" },
+    { "label": "Frontier", "href": "pages/asceveron.html", "match": "pages/asceveron.html" },
+    { "label": "People", "href": "pages/npcs-notable.html", "match": "npcs-notable" }
+  ],
+  "primaryNav": [
+    { "label": "Home", "href": "index.html" },
+    { "label": "Atlas hub", "href": "pages/atlas/index.html", "match": "pages/atlas/index" },
+    { "label": "Asceveron", "href": "pages/atlas/asceveron.html", "match": "atlas/asceveron.html" },
+    { "label": "Cilobria", "href": "pages/atlas/cilobria.html", "match": "cilobria.html" },
+    { "label": "Lucani", "href": "pages/atlas/lucani.html", "match": "lucani.html" },
+    { "label": "Odesus", "href": "pages/atlas/odesus.html", "match": "odesus.html" },
+    { "label": "Trukuma", "href": "pages/atlas/trukuma.html", "match": "trukuma.html" },
+    { "label": "Uchanaire", "href": "pages/atlas/uchanaire.html", "match": "uchanaire.html" },
+    { "label": "Xaraquin", "href": "pages/atlas/xaraquin.html", "match": "xaraquin.html" },
+    { "label": "Planes", "href": "pages/cosmology/planes-of-existence.html", "match": "planes-of-existence" },
+    { "label": "Gods (table)", "href": "pages/faith/gods-of-eldarum.html", "match": "gods-of-eldarum" },
+    { "label": "Pantheon", "href": "pages/faith/pantheon.html", "match": "faith/pantheon.html" },
+    { "label": "Pantheon archive", "href": "pages/faith/pantheon-compendium.html", "match": "pantheon-compendium" },
+    { "label": "Titan Wars", "href": "pages/faith/titan-wars.html", "match": "titan-wars.html" },
+    { "label": "Storm Court", "href": "pages/faith/storm-court.html", "match": "storm-court.html" },
+    { "label": "Titans & loci", "href": "pages/faith/titans-genius-loci.html", "match": "titans-genius" },
+    { "label": "Timeline", "href": "pages/history/master-timeline.html", "match": "master-timeline" },
+    { "label": "Chronicle", "href": "pages/history-overview.html", "match": "history-overview" },
+    { "label": "Northwake hub", "href": "pages/gazetteer/northwake-hub.html", "match": "gazetteer/" },
+    { "label": "Frontier Asceveron", "href": "pages/asceveron.html", "match": "pages/asceveron.html" },
+    { "label": "Notable people", "href": "pages/npcs-notable.html", "match": "npcs-notable" },
+    { "label": "Lore sources", "href": "pages/meta/lore-sources.html", "match": "meta/lore-sources" },
+    { "label": "Site map", "href": "pages/meta/sitemap.html", "match": "meta/sitemap" }
+  ],
+  "topicDock": [
+    { "label": "Home", "href": "index.html" },
+    { "label": "Atlas hub", "href": "pages/atlas/index.html" },
+    {
+      "type": "menu",
+      "label": "7 continents",
+      "items": [
+        { "label": "Asceveron", "href": "pages/atlas/asceveron.html" },
+        { "label": "Cilobria", "href": "pages/atlas/cilobria.html" },
+        { "label": "Lucani", "href": "pages/atlas/lucani.html" },
+        { "label": "Odesus", "href": "pages/atlas/odesus.html" },
+        { "label": "Trukuma", "href": "pages/atlas/trukuma.html" },
+        { "label": "Uchanaire", "href": "pages/atlas/uchanaire.html" },
+        { "label": "Xaraquin", "href": "pages/atlas/xaraquin.html" }
+      ]
+    },
+    { "label": "Planes", "href": "pages/cosmology/planes-of-existence.html" },
+    { "label": "Titans primer", "href": "pages/faith/eldarum-titans-primer.html" },
+    { "label": "Titans workbook", "href": "pages/faith/eldarum-titans-workbook.html" },
+    { "label": "Gods (table)", "href": "pages/faith/gods-of-eldarum.html" },
+    { "label": "Pantheon guide", "href": "pages/faith/pantheon.html" },
+    { "label": "Pantheon archive", "href": "pages/faith/pantheon-compendium.html" },
+    { "label": "Titan Wars", "href": "pages/faith/titan-wars.html" },
+    { "label": "Timeline", "href": "pages/history/master-timeline.html" },
+    { "label": "Northwake articles", "href": "pages/gazetteer/northwake-hub.html" },
+    { "label": "Roll20 archive", "href": "pages/campaign/index.html" },
+    { "label": "Campaign journal", "href": "pages/campaign/journal.html" },
+    { "label": "Magic items", "href": "pages/campaign/magic-items.html" },
+    { "label": "Lore sources", "href": "pages/meta/lore-sources.html" },
+    { "label": "Site map", "href": "pages/meta/sitemap.html" }
+  ],
+  "sidebar": [
+    {
+      "id": "start",
+      "heading": "Start",
+      "links": [
+        { "label": "Overview", "href": "index.html", "match": "index.html" },
+        { "label": "Lore &amp; primary sources", "href": "pages/meta/lore-sources.html", "match": "meta/lore-sources" },
+        { "label": "Continental atlas", "href": "pages/atlas/index.html", "match": "pages/atlas/index" },
+        { "label": "Planes of existence", "href": "pages/cosmology/planes-of-existence.html", "match": "planes-of-existence" },
+        { "label": "Underworld (gazetteer)", "href": "pages/cosmology/underworld.html", "match": "cosmology/underworld" },
+        { "label": "Planes — full compendium", "href": "pages/cosmology/planes-compendium.html", "match": "planes-compendium" },
+        { "label": "Gods of Eldarum (table)", "href": "pages/faith/gods-of-eldarum.html", "match": "gods-of-eldarum" },
+        { "label": "Pantheon archive", "href": "pages/faith/pantheon-compendium.html", "match": "pantheon-compendium" },
+        { "label": "Site map", "href": "pages/meta/sitemap.html", "match": "meta/sitemap" }
+      ]
+    },
+    {
+      "id": "continents",
+      "heading": "Seven continents",
+      "links": [
+        { "label": "Asceveron", "href": "pages/atlas/asceveron.html", "match": "atlas/asceveron.html" },
+        { "label": "Cilobria", "href": "pages/atlas/cilobria.html", "match": "cilobria.html" },
+        { "label": "Lucani", "href": "pages/atlas/lucani.html", "match": "lucani.html" },
+        { "label": "Odesus", "href": "pages/atlas/odesus.html", "match": "odesus.html" },
+        { "label": "Trukuma", "href": "pages/atlas/trukuma.html", "match": "trukuma.html" },
+        { "label": "Uchanaire", "href": "pages/atlas/uchanaire.html", "match": "uchanaire.html" },
+        { "label": "Xaraquin", "href": "pages/atlas/xaraquin.html", "match": "xaraquin.html" }
+      ]
+    },
+    {
+      "id": "faith",
+      "heading": "Cosmos & faith",
+      "links": [
+        { "label": "Pantheon archive (full lore)", "href": "pages/faith/pantheon-compendium.html", "match": "pantheon-compendium" },
+        { "label": "Veiled Pantheon (guide)", "href": "pages/faith/pantheon.html", "match": "faith/pantheon.html" },
+        { "label": "Titans deep lore", "href": "pages/faith/titan-deep-lore.html", "match": "titan-deep-lore" },
+        { "label": "Eldarum Titans primer", "href": "pages/faith/eldarum-titans-primer.html", "match": "eldarum-titans-primer" },
+        { "label": "Titans workbook (full)", "href": "pages/faith/eldarum-titans-workbook.html", "match": "eldarum-titans-workbook" },
+        { "label": "Titan Wars", "href": "pages/faith/titan-wars.html", "match": "titan-wars.html" },
+        { "label": "Storm Court", "href": "pages/faith/storm-court.html", "match": "storm-court.html" },
+        { "label": "Titans & genius loci", "href": "pages/faith/titans-genius-loci.html", "match": "titans-genius" }
+      ]
+    },
+    {
+      "id": "history",
+      "heading": "History",
+      "links": [
+        { "label": "Master timeline", "href": "pages/history/master-timeline.html", "match": "master-timeline" },
+        { "label": "Asceveron chronicle", "href": "pages/history/asceveron-grand-chronicle.html", "match": "asceveron-grand-chronicle" },
+        { "label": "Chronicle (classic)", "href": "pages/history-overview.html", "match": "history-overview" },
+        { "label": "Recent strife", "href": "pages/history-recent-strife.html", "match": "history-recent" }
+      ]
+    },
+    {
+      "id": "campaign",
+      "heading": "Campaign (Roll20)",
+      "links": [
+        { "label": "Asceveron archive hub", "href": "pages/campaign/index.html", "match": "pages/campaign/index" },
+        { "label": "Campaign journal", "href": "pages/campaign/journal.html", "match": "campaign/journal" },
+        { "label": "Journal GM appendix", "href": "pages/campaign/journal-gm-appendix.html", "match": "journal-gm-appendix" },
+        { "label": "Player characters", "href": "pages/campaign/player-characters.html", "match": "campaign/player-characters" },
+        { "label": "Magic items catalog", "href": "pages/campaign/magic-items.html", "match": "campaign/magic-items" },
+        { "label": "Full handout text", "href": "pages/campaign/roll20-handouts-full-archive.html", "match": "roll20-handouts-full-archive" }
+      ]
+    },
+    {
+      "id": "gazetteer",
+      "heading": "Campaign spine",
+      "links": [
+        { "label": "Northwake hub", "href": "pages/gazetteer/northwake-hub.html", "match": "gazetteer/" },
+        { "label": "Elliswich Quag", "href": "pages/gazetteer/elliswich-quag.html", "match": "elliswich-quag" },
+        { "label": "Sverge Republic", "href": "pages/gazetteer/sverge-republic.html", "match": "sverge-republic" },
+        { "label": "Asceveron (detail)", "href": "pages/asceveron.html", "match": "pages/asceveron.html" },
+        { "label": "Notable people", "href": "pages/npcs-notable.html", "match": "npcs-notable" }
+      ]
+    }
+  ]
+}
